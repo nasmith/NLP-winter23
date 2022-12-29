@@ -8,7 +8,7 @@ T 14 Feb
 Th 16 Feb
 : Guest lecture (TBD); [AC](../assets/docs/AC.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AD](../assets/docs/AD.pdf)
 
-T 19 Feb
+T 21 Feb
 : Lecture ([slides](../assets/slides/crf.pdf))
 
 
