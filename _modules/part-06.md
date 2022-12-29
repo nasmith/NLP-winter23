@@ -15,6 +15,9 @@ T 21 Feb
 Th 23 Feb
 : Lecture ([slides](../assets/slides/lsp.pdf))
 
+Th 2 Mar
+: [AD](../assets/docs/AD.pdf) is due at 11:59 pm **deadline**{: .label .label-red } 
+
 
 
 
