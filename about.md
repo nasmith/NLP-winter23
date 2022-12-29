@@ -52,11 +52,9 @@ There will be five graded assignments, roughly one every two weeks.  You are enc
 - [Assignment 0](assets/docs/A0.pdf), which is ungraded, is a tool for you to assess your preparedness for this course.
 - [Assignment A](assets/docs/AA.pdf) is designed to advance your understanding of text classification, feature design and selction, the evaluation of classifiers, the mathematics of some important classification models, frequency information in text data, and some mathematical properties of language models.
 - [Assignment B](assets/docs/AB.pdf) is designed to advance your understanding of language models, word embeddings, and NLP models that make use of them.
-# - [Assignment 5](assets/docs/A5.pdf) is designed to advance your understanding of ethical matters that arise in NLP.
-# - [Assignment 6](assets/docs/A6.pdf) is designed to advance your understanding of sequence models. 
-# - [Assignment 7](assets/docs/A7.pdf) is designed to give you more practical hands-on experience with sequence labeling.
-# - [Assignment 8](assets/docs/A8.pdf)  is designed to advance your understanding of structured problems in NLP that deal with segmentation, trees, and logical forms.
-# - [Assignment 9](assets/docs/A9.pdf) is designed to give you more practical hands-on experience with sequence-to-sequence methods.
+- [Assignment C](assets/docs/AC.pdf) is designed to advance your understanding of ethical matters that arise in NLP and sequence models. 
+- [Assignment D](assets/docs/AD.pdf) is designed to give you more practical hands-on experience with sequence labeling and understanding of structured problems in NLP that deal with segmentation, trees, and logical forms.
+- [Assignment E](assets/docs/AE.pdf) is designed to give you more practical hands-on experience with sequence-to-sequence methods.
 
 Solving extra credit problems in an assignment increases your grade for that particular assignment.
 
