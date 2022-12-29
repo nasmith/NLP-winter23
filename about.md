@@ -25,7 +25,7 @@ Natural language processing (NLP) seeks to endow computers with the ability to i
 
 The courses are similar in breadth and use the same lecture content.  The projects are quite different; 447’s project is a predefined implementation problem that gives teams freedom in developing a solution.  It is designed to encourage iterative improvement and an understanding of inherent tradeoffs in building an NLP system.  517’s project is more research-oriented; it asks teams to reproduce experiments in recently published NLP papers.  Teams have great flexibility in the choice of a paper to reproduce.
 
-Additionally, there will be differences in the assignments.  In 2023, CSE 447 ad CSE 517 are being taught separately.
+Additionally, there will be differences in the assignments.  In 2023, CSE 447 and CSE 517 are being taught separately.
 
 
 ## Lectures
