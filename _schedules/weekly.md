@@ -24,14 +24,14 @@ schedule:
      events:
       - name: Lecture
         start: 11:30 AM
-        end: 12:50 PM
+        end: 1:00 PM
         location: 075 JHN
   - name: Wednesday 
   - name: Thursday
      events:
       - name: Lecture
         start: 11:30 AM
-        end: 12:50 PM
+        end: 1:00 PM
         location: 075 JHN
   - name: Friday
 ---
