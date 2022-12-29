@@ -10,5 +10,5 @@ Th 9 Mar
 : Lecture ([slides](../assets/slides/seq2seq.pdf)); [AE](../assets/docs/AE.pdf) is due at 11:59 pm **deadline**{: .label .label-red } 
 
 F 10 Mar
-  : 
+  : [CSE 517 project version 2 (final report) ](../assets/docs/project-517.pdf) is due at 11:59 pm  **deadline**{: .label .label-red }
 
