@@ -25,7 +25,7 @@ Natural language processing (NLP) seeks to endow computers with the ability to i
 
 The courses are similar in breadth and use the same lecture content.  The projects are quite different; 447’s project is a predefined implementation problem that gives teams freedom in developing a solution.  It is designed to encourage iterative improvement and an understanding of inherent tradeoffs in building an NLP system.  517’s project is more research-oriented; it asks teams to reproduce experiments in recently published NLP papers.  Teams have great flexibility in the choice of a paper to reproduce.
 
-Additionally, there will be differences in the assignments.  In 2023, CSE 447 ad CSE 517 are being taught separately.
+Additionally, there will be differences in the assignments.  In 2023, CSE 447 and CSE 517 are being taught separately.
 
 
 ## Lectures
@@ -50,15 +50,11 @@ You will be evaluated based on individually completed assignments (50%) and a pr
 There will be five graded assignments, roughly one every two weeks.  You are encouraged to complete all of them on time.  If you submit an assignment within seven days of the due date, the TAs will calculate the grade you would have received if it had been on time, but you will receive a zero.  Your total assignment grade will be calculated as a weighted sum of your five assignments' grades.  Most assignments will have a weight of one; your best assignment will be doubly weighted, and your worst assignment will get a weight of zero.  (This means that your highest-graded assignments will be worth 20% of your grade, the middle three will be worth 10% of your grade apiece, and the lowest-graded assignment will be worth 0% of your grade.)  Because we have built this slack into the grading system, and because you will still receive feedback on work that is slightly late, there will be no exceptions to our policy of zero credit for late work.  **Precise assignment deadlines are shown on the [course calendar](../calendar).**
 
 - [Assignment 0](assets/docs/A0.pdf), which is ungraded, is a tool for you to assess your preparedness for this course.
-# - [Assignment 1](assets/docs/A1.pdf) is designed to advance your understanding of text classification, feature design and selction, the evaluation of classifiers, and the mathematics of some important classification models.
-# - [Assignment 2](assets/docs/A2.pdf) is designed to advance your understanding of frequency information in text data and some mathematical properties of language models.
-# - [Assignment 3](assets/docs/A3.pdf) is designed to advance your understanding of language models.
-# - [Assignment 4](assets/docs/A4.pdf) is designed to advance your understanding of word embeddings and NLP models that make use of them.
-# - [Assignment 5](assets/docs/A5.pdf) is designed to advance your understanding of ethical matters that arise in NLP.
-# - [Assignment 6](assets/docs/A6.pdf) is designed to advance your understanding of sequence models. 
-# - [Assignment 7](assets/docs/A7.pdf) is designed to give you more practical hands-on experience with sequence labeling.
-# - [Assignment 8](assets/docs/A8.pdf)  is designed to advance your understanding of structured problems in NLP that deal with segmentation, trees, and logical forms.
-# - [Assignment 9](assets/docs/A9.pdf) is designed to give you more practical hands-on experience with sequence-to-sequence methods.
+- [Assignment A](assets/docs/AA.pdf) is designed to advance your understanding of text classification, feature design and selction, the evaluation of classifiers, the mathematics of some important classification models, frequency information in text data, and some mathematical properties of language models.
+- [Assignment B](assets/docs/AB.pdf) is designed to advance your understanding of language models, word embeddings, and NLP models that make use of them.
+- [Assignment C](assets/docs/AC.pdf) is designed to advance your understanding of ethical matters that arise in NLP and sequence models. 
+- [Assignment D](assets/docs/AD.pdf) is designed to give you more practical hands-on experience with sequence labeling and understanding of structured problems in NLP that deal with segmentation, trees, and logical forms.
+- [Assignment E](assets/docs/AE.pdf) is designed to give you more practical hands-on experience with sequence-to-sequence methods.
 
 Solving extra credit problems in an assignment increases your grade for that particular assignment.
 
