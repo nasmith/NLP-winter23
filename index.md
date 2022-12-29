@@ -19,16 +19,14 @@ seo:
 
 ## Useful Links
 
-- [Ed discussion board](https://edstem.org/us/courses/16743/discussion/)
+- Ed discussion board
   for registered participants
-- [Zoom join link](https://washington.zoom.us/j/92062223315) for the
-  first and second weeks of classes, which will be online
-- This course's [Canvas page](https://canvas.uw.edu/courses/1515305)
-- [Submit an answer to a live poll during lecture](https://forms.gle/WJR2oJhvMMVDLsEh6)
-- [Request a private follow-up from course staff](https://forms.gle/ei8WawS12xY2hymh7)
-- [Guide to computing infrastructure](https://gist.github.com/jerome9189/b5686fdad24532901be7705f1616cd99)
-- [Petition for an add code](https://forms.gle/zXqCXoZbopS5qgvp6)
-  (closed at 5pm Pacific time on January 5)
+- This course's [Canvas page](https://canvas.uw.edu/courses/1610962)
+- [Submit an answer to a live poll during lecture](https://forms.gle/PvxEicoPEdVEBJQC7)
+- [Request a private follow-up from course staff](https://forms.gle/HrTwSfcvbTnfWoBV6) 
+- Guide to computing infrastructure
+- [Petition for an add code](https://forms.gle/8PYc2DF5ksp6o8E7A)
+  (closed at 5pm Pacific time on January 6)
 
 
 
