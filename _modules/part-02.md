@@ -18,4 +18,4 @@ F 20 Jan
 : [Project proposal](../assets/docs/project-517.pdf) is due at 11:59 pm  **deadline**{: .label .label-red }
 
 Th 2 Feb
-: [AB](../assets/docs/AB.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+: [AB](../assets/docs/AB.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AC](../assets/docs/AC.pdf)
