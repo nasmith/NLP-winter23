@@ -9,5 +9,5 @@ T 31 Jan
 [transcript](https://drive.google.com/file/d/16DyBtGwSOUHVcSMN-hvCWsc0awCyX_n2/view?usp=sharing);
 [slides](https://drive.google.com/file/d/1ejcGyncrh5lSe_P7TRX8Slj_roZUWq2p/view?usp=sharing))
 
-T 2 Feb
-: Lecture ([slides](../assets/slides/wfst.pdf))
+Th 2 Feb
+: Lecture ([slides](../assets/slides/wfst.pdf)); [AB](../assets/docs/AB.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AC](../assets/docs/AC.pdf)
