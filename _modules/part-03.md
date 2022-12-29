@@ -12,4 +12,4 @@ Th 26 Jan
 : Lecture ([slides](../assets/slides/vectors.pdf));
 
 Th 2 Feb
-: [AB](../assets/docs/AB.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AC](../assets/docs/AC.pdf) 
+: [AB](../assets/docs/AB.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AC](../assets/docs/AC.pdf)
