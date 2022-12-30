@@ -29,7 +29,7 @@ seo:
 - [Submit an answer to a live poll during lecture](https://forms.gle/PvxEicoPEdVEBJQC7)
 - [Request a private follow-up from course staff](https://forms.gle/HrTwSfcvbTnfWoBV6) 
 - Guide to computing infrastructure
-- [Petition for an add code](https://forms.gle/8PYc2DF5ksp6o8E7A)
+- [Petition for an add code](https://forms.gle/8PYc2DF5ksp6o8E7A) to be submitted after you've completed and graded [Assignment 0](https://github.com/nasmith/NLP-winter23/blob/main/assets/docs/A0.pdf)
   (closed at 5pm Pacific time on January 6)
 
 
