@@ -7,7 +7,7 @@ T 14 Feb
 
 
 Th 16 Feb
-: Guest lecture (TBD); [AC](../assets/docs/AC.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AD](../assets/docs/AC.pdf)
+: Guest lecture:  Tim Dettmers on modular language models; [AC](../assets/docs/AC.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AD](../assets/docs/AC.pdf)
 
 T 21 Feb
 : Lecture ([slides](../assets/slides/lsp.pdf))
