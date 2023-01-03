@@ -9,6 +9,7 @@ T 24 Jan
 : Lecture ([slides](../assets/slides/vectors.pdf));
 
 Th 26 Jan
+: Noah office hours 10-11am (in person)
 : Lecture ([slides](../assets/slides/vectors.pdf));
 
 Th 2 Feb
