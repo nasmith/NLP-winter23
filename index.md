@@ -19,7 +19,7 @@ seo:
 
 ## Coordinates
 - Lectures are Tuesdays and Thursdays, 11:30am to 12:50pm, in [Johnson](https://www.washington.edu/maps/#!/JHN) 075.
-- Office hours will be posted soon.
+- Noah's office hours will alternate between Thursdays 10:00am to 11:00am (starting Jan. 12) and Tuesdays 10:00am to 11:00am (starting Jan.  17).  Tuesdays will be in zoom and Thursdays will be in CSE 588.
 
 ## Useful Links
 
