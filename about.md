@@ -20,6 +20,8 @@ description: >-
 
 Natural language processing (NLP) seeks to endow computers with the ability to intelligently process human language. NLP components are used in conversational agents and other systems that engage in dialogue with humans, automatic translation between human languages, automatic answering of questions using large text collections and other kinds of data, the extraction of structured information from text, tools that help human authors, and many, many more. This course will teach you the <b>fundamental ideas</b> used in key NLP components. It is organized into several “greatest hits” topics, each with a more-or-less self-contained lecture and associated readings, problems, and implementation exercises.
 
+At a high level, the instructor hopes for CSE 517 students to be able to draw the right inferences from what they see in the news (or a press release, or a job talk) about NLP.
+
 
 ## 447 vs. 517
 
