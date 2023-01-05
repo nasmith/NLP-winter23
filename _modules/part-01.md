@@ -7,7 +7,7 @@ T 3 Jan
 
 Th 5 Jan 
 : Lecture
-([slides](../assets/slides/mlr.pdf)) 
+([slides](../assets/slides/mlr.pdf), up to slide 72) 
 
 T 10 Jan
 : Lecture ([slides](../assets/slides/mlr.pdf)) 
