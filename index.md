@@ -24,7 +24,7 @@ seo:
 
 ## Useful Links
 
-- Ed discussion board
+- [Ed discussion board](https://edstem.org/us/courses/32322/discussion/)
   for registered participants
 - This course's [Canvas page](https://canvas.uw.edu/courses/1610962)
 - [Submit an answer to a live poll during lecture](https://forms.gle/PvxEicoPEdVEBJQC7)
