@@ -60,6 +60,8 @@ There will be five graded assignments, roughly one every two weeks.  You are enc
 
 Solving extra credit problems in an assignment increases your grade for that particular assignment.
 
+NLP is now being deployed in exciting new settings, e.g., code generation.  In the spirit of gaining a better understanding of such applications, you are allowed to use code-generation assistants for the assignments.  If you do so, you must acknowledge their use the writeup, and include a paragraph describing your use and analyzing the experience.  In short, how well did it work and what went wrong?  Please also note that using such tools may imply donating your data to the companies that deployed them.  Please take reasonable steps to avoid making our assignments easier in future iterations of the course (e.g., once the tool provides a correct answer, don't give it positive feedback).
+
 ### Project 
 
 Details on the project are given in the instructions document below.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
