@@ -20,6 +20,7 @@ seo:
 ## Coordinates
 - Lectures are Tuesdays and Thursdays, 11:30am to 12:50pm, in [Gates](https://www.washington.edu/classroom/CSE2+G01) G01 (note new room starting January 12).
 - Noah's office hours will alternate between Thursdays 10:00am to 11:00am (starting Jan. 12) and Tuesdays 10:00am to 11:00am (starting Jan.  17).  Tuesdays will be in zoom and Thursdays will be in CSE 588.
+- Teaching Assistant office hours are Wednesday and Friday 10:00am to 11:00am. Both office hours are in the Allen Center. Wednesday you can find Sebastin in CSE1 386, Friday you can find Tim in CSE1 678.
 - Remember that you can always [request an appointment](https://nasmith.github.io/NLP-winter23/followup/) if the scheduled office hours don't work for you.
 
 ## Useful Links
