@@ -7,7 +7,7 @@ T 10 Jan
 
 Th 12 Jan
 : Noah office hours 10-11am (in person)
-: Lecture ([slides](../assets/slides/lm.pdf))
+: Lecture ([slides](../assets/slides/lm.pdf), up to slide 61)
 
 T 17 Jan
 : Noah office hours 10-11am (zoom)
