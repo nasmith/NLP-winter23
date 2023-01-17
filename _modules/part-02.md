@@ -11,7 +11,7 @@ Th 12 Jan
 
 T 17 Jan
 : Noah office hours 10-11am (zoom)
-: Lecture ([slides](../assets/slides/lm.pdf))
+: Lecture ([slides](../assets/slides/lm.pdf), up to slide 112)
 
 Th 19 Jan
 : Lecture ([slides](../assets/slides/lm.pdf)); [AA](../assets/docs/AA.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AB](../assets/docs/AB.pdf) 
