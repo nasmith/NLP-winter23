@@ -11,4 +11,4 @@ T 31 Jan
 [slides](https://drive.google.com/file/d/1ejcGyncrh5lSe_P7TRX8Slj_roZUWq2p/view?usp=sharing))
 
 Th 2 Feb
-: Lecture ([slides](../assets/slides/wfst.pdf)); [AB](../assets/docs/AB.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AC](../assets/docs/AC.pdf)
+: Lecture ([slides](../assets/slides/wfst.pdf) and [slides](../assets/slides/crf.pdf), up to slide 20); read Eisenstein chapters 7 and 8;  [video from 2021](https://drive.google.com/file/d/1NeLhUxWBBbUSeC5oyz0krxppzlG_OB5V/view?usp=sharing) ([with captions](https://drive.google.com/file/d/1uyoeC80ynsVmXjEl2hFZZDWQWHXI8kjF/view?usp=sharing); [transcript](https://drive.google.com/file/d/1G3Ox7tIrjQN9LEV4VX2UL3-lp1VSMANI/view?usp=sharing); [slides](https://drive.google.com/file/d/1eH4OzFMStk1svUZM-8Iiyssb0kOsDrBb/view?usp=sharing)); [AB](../assets/docs/AB.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [AC](../assets/docs/AC.pdf)
