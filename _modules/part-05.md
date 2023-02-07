@@ -3,7 +3,7 @@ title: Sequence Labeling and Conditional Random Fields
 ---
 
 T 7 Feb
-: Lecture ([slides](../assets/slides/crf.pdf))
+: Lecture ([slides](../assets/slides/crf.pdf), up to slide 78)
 
 Th 9 Feb
 : Noah office hours 10-11am (in person)
