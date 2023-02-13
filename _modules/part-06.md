@@ -6,7 +6,7 @@ Th 9 Feb
 : Lecture ([slides](../assets/slides/lsp.pdf), up to slide 4); read Eisenstein chapters 10 and 12, (suggested) 11 and 13; [video from 2021](https://drive.google.com/file/d/1gGXlnv2livCAhH6CK3H-5ij1ZsBNRsOM/view?usp=sharing) ([with captions](https://drive.google.com/file/d/1dkGLEjvFupyzBzpb426vkUVC0eMcE6Tu/view?usp=sharing); [transcript](https://drive.google.com/file/d/1ybQeIScWKpOYjq-DC18HWevgn4oDEXwh/view?usp=sharing); [slides](https://drive.google.com/file/d/1KGu3oxTRoLcvKQqPcRhHBuntDCyj6cj4/view?usp=sharing))
 
 T 14 Feb
-: Noah office hours 10-11am (zoom)
+: No office hour (email Noah if you want to chat)
 : Lecture ([slides](../assets/slides/lsp.pdf))
 
 
