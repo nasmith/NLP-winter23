@@ -7,7 +7,7 @@ Th 9 Feb
 
 T 14 Feb
 : No office hour (email Noah if you want to chat)
-: Lecture ([slides](../assets/slides/lsp.pdf))
+: Lecture ([slides](../assets/slides/lsp.pdf), up to slide 52)
 
 
 Th 16 Feb
