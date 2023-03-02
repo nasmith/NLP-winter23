@@ -10,5 +10,5 @@ T 28 Feb
 
 
 Th 9  Mar
-: [AE](../assets/docs/AE.pdf) is due at 11:59 pm **deadline**{: .label .label-red } 
+: [AE](../assets/docs/AE.pdf) is due at 11:59 pm **deadline**{: .label .label-red }  
 
