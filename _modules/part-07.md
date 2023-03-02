@@ -9,10 +9,6 @@ T 28 Feb
 : Lecture ([slides](../assets/slides/seq2seq.pdf)); Noah office hours 10-11am (zoom)
 
 
-Th 2 Mar
-: Lecture ([slides](../assets/slides/seq2seq.pdf)); [AD](../assets/docs/AD.pdf) is due at 11:59 pm **deadline**{: .label .label-red } 
-
-
 Th 9  Mar
 : [AE](../assets/docs/AE.pdf) is due at 11:59 pm **deadline**{: .label .label-red } 
 
