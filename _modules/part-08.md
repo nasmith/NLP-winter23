@@ -1,5 +1,5 @@
 ---
-title: Bonus Topics and Finale
+title: Current Trends
 ---
 
 Th 2 Mar
