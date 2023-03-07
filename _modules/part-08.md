@@ -9,7 +9,6 @@ T 7 Mar
 : Guest lecture:  Sebastin Santy on human-NLP interaction
 
 Th 9 Mar
-: Noah office hours 10-11am (in person)
 : Final lecture ([slides](../assets/slides/finale.pdf)); [AE](../assets/docs/AE.pdf) is due at 11:59 pm **deadline**{: .label .label-red } 
 
 F 10 Mar
