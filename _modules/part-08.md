@@ -11,6 +11,6 @@ T 7 Mar
 Th 9 Mar
 : Final lecture ([slides](../assets/slides/finale.pdf)); [AE](../assets/docs/AE.pdf) is due at 11:59 pm **deadline**{: .label .label-red } 
 
-F 10 Mar
+Sun 12 Mar
   : [CSE 517 project version 2 (final report) ](../assets/docs/project-517.pdf) is due at 11:59 pm  **deadline**{: .label .label-red }
 
